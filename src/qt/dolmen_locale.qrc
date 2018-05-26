@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/dolmen_bg.qm</file>
+        <file alias="de">locale/dolmen_de.qm</file>
+        <file alias="en">locale/dolmen_en.qm</file>
+        <file alias="es">locale/dolmen_es.qm</file>
+        <file alias="fi">locale/dolmen_fi.qm</file>
+        <file alias="fr">locale/dolmen_fr.qm</file>
+        <file alias="it">locale/dolmen_it.qm</file>
+        <file alias="ja">locale/dolmen_ja.qm</file>
+        <file alias="pl">locale/dolmen_pl.qm</file>
+        <file alias="pt">locale/dolmen_pt.qm</file>
+        <file alias="ru">locale/dolmen_ru.qm</file>
+        <file alias="sk">locale/dolmen_sk.qm</file>
+        <file alias="sv">locale/dolmen_sv.qm</file>
+        <file alias="vi">locale/dolmen_vi.qm</file>
+        <file alias="zh_CN">locale/dolmen_zh_CN.qm</file>
+        <file alias="zh_TW">locale/dolmen_zh_TW.qm</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,6 @@
+usr/local/bin/dolmen-qt usr/bin
+share/pixmaps/dolmen32.xpm usr/share/pixmaps
+share/pixmaps/dolmen16.xpm usr/share/pixmaps
+share/pixmaps/dolmen128.png usr/share/pixmaps
+debian/dolmen-qt.desktop usr/share/applications
+debian/dolmen-qt.protocol usr/share/kde4/services/

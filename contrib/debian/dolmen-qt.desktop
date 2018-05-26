@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Dolmen
+Comment=Dolmen P2P Cryptocurrency
+Comment[fr]=Dolmen, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Dolmen, eşten eşe kriptografik sanal para birimi
+Exec=dolmen-qt %u
+Terminal=false
+Type=Application
+Icon=dolmen128
+MimeType=x-scheme-handler/dolmen;
+Categories=Office;Finance;
